@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Nolan\Desktop\School\Design and Analysis of Algorithms\project\project\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nolan\Desktop\School\Design and Analysis of Algorithms\project\project\Source.cpp(18,8): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Nolan\Desktop\School\Design and Analysis of Algorithms\project\project\Source.cpp(30,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Nolan\Desktop\School\Design and Analysis of Algorithms\project\project\Source.cpp(41,32): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  project.vcxproj -> C:\Users\Nolan\Desktop\School\Design and Analysis of Algorithms\project\x64\Debug\project.exe
